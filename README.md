@@ -10,7 +10,8 @@ jumps, lands in the pose, the shirt number **7** rises into place, and **SIUUUU*
 
 ## Download
 
-Prebuilt APK: **[latest release](https://github.com/valentinaschiavon99/glyph-siuuu/releases/latest)**.
+Prebuilt APK, straight from this repo:
+**[siuuu-glyph-toy.apk](https://github.com/valentinaschiavon99/glyph-siuuu/raw/main/siuuu-glyph-toy.apk)**
 
 ```bash
 adb install siuuu-glyph-toy.apk

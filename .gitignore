@@ -8,6 +8,7 @@ local.properties
 .externalNativeBuild
 .cxx
 *.apk
+!siuuu-glyph-toy.apk
 *.aab
 
 # Nothing's Glyph Matrix SDK is licensed and must not be redistributed.
