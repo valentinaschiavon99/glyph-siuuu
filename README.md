@@ -8,6 +8,18 @@ jumps, lands in the pose, the shirt number **7** rises into place, and **SIUUUU*
 
 *(the GIF is rendered from the exact frames the phone receives — see [Rendering a preview](#rendering-a-preview))*
 
+## Download
+
+Prebuilt APK: **[latest release](https://github.com/valentinaschiavon99/glyph-siuuu/releases/latest)**.
+
+```bash
+adb install siuuu-glyph-toy.apk
+```
+
+Or copy the file to the phone and open it (your file manager needs "install unknown apps").
+Then switch the toy on as described in [Turn it on](#turn-it-on). Building it yourself is only
+needed if you want to change the animation.
+
 ## What it does
 
 | Phase | Frames | What you see |
@@ -37,7 +49,7 @@ You need Android Studio (or just the Android SDK) and a Nothing Phone (3) runnin
 later.
 
 ```bash
-git clone https://github.com/<you>/glyph-siuuu.git
+git clone https://github.com/valentinaschiavon99/glyph-siuuu.git
 cd glyph-siuuu
 ./tools/fetch-sdk.sh          # pulls Nothing's Glyph Matrix SDK into app/libs
 ./gradlew installDebug        # or open the project in Android Studio and hit Run
