@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+.idea/
+.DS_Store
+build/
+captures/
+local.properties
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# Nothing's Glyph Matrix SDK is licensed and must not be redistributed.
+# Run ./tools/fetch-sdk.sh to put it back.
+app/libs/*.aar

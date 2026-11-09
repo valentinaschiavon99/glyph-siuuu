@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Preview tile shown in Settings > Glyph Interface > Glyph Toys -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- matrix ring -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M8,54 a46,46 0 1,0 92,0 a46,46 0 1,0 -92,0 Z M14,54 a40,40 0 1,0 80,0 a40,40 0 1,0 -80,0 Z" />
+    <!-- the number -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M31,33 L77,33 L77,45 L60,45 L51,79 L38,79 L47,45 L31,45 Z" />
+</vector>
